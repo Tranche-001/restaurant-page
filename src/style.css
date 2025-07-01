@@ -58,6 +58,7 @@ h1, h2, h3, h4, h5, h6 {
 /*STYLE CSS*/
 html {
   zoom: 80%;
+  background-color: #eac9f8;
 }
 
 header{
@@ -104,4 +105,16 @@ nav{
   align-items: center;
   background-color: #3b7c9e;
   font-size: 30px;
+}
+
+/*recipe-page*/
+.recipe-page{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #eac9f8;
+}
+.recipe-page h1{
+  padding: 18px;
 }

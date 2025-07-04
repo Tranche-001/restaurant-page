@@ -23,3 +23,5 @@ buttonAbout.addEventListener("click", () => {
   content.innerHTML = "";
   content.appendChild(aboutSection);
 })
+//so the webpage starts on the home page instead of a blank page
+buttonHome.click();

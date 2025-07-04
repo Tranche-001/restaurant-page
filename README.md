@@ -1,4 +1,6 @@
 # restaurant-page
+## Live Server:
+https://tranche-001.github.io/restaurant-page/
 
 ## Skill learned:
 - Use of webpack bundler
